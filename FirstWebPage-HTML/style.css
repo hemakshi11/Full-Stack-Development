@@ -1,0 +1,21 @@
+div, footer{
+    background-color: #032555;
+    text-align: center;
+    color: white;
+}
+
+#footer{
+    text-align: left;
+}
+img{
+    width: 25%;
+}
+.blue{
+    color:#5BDDD4;
+}
+.red{
+    color: #F3666A;
+}
+h2{
+    text-align: center;
+}
